@@ -9,4 +9,4 @@ const scan = (port) => {
 for (let i = 0; i < 1001; i++) {
     port++;
     scan(port)
-  }
+}
